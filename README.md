@@ -3,7 +3,7 @@
 Bruteforce attack, For educational purpose only
 ```
 ## Find here a video on YouTube
-https://youtu.be/qIfGxDmRQIU
+Upcomming soon
 
 ## Install Requirements (on Linux)
 ```
