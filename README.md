@@ -30,7 +30,10 @@ Upcomming soon
 * Make location based login(+browser based).
 
 ## Explore More in Hacking ...
-https://www.facebook.com/B14CKH4K3R/
+https://www.instagram.com/cyberzone.pk/
+https://github.com/Cyberzone-pk
+https://www.youtube.com/channel/UCGi_PnkPcbTPnF5EsaYI5aQ
+Whatsapp: +92309-783-7343
 
 ~~~
 Happy Hacking Day !
